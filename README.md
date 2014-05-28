@@ -20,7 +20,11 @@ own line.
 
 ## Example
 
+(Obviously, it's dynamic when actually run!)
+
+```
 > ./StdNormal | LiveHistogram -4 4
+```
 
 ```
 | <-- 0                                |                            25658 --> |
